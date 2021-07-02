@@ -1,0 +1,2 @@
+count	freq	cdr3nt	cdr3aa	v	d	j	VEnd	DStart	DEnd	JStart
+1	1.0	TGTGCCCCCAACGTTCTCTTT	CAPNVLF	TRGV4	.	TRGJ1	5	-1	-1	15

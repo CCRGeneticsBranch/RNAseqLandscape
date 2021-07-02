@@ -1,0 +1,2 @@
+count	freq	cdr3nt	cdr3aa	v	d	j	VEnd	DStart	DEnd	JStart
+1	1.0	TGTCGACACTATGATAGTTCATTT	CRHYDSSF	IGKV3-20	.	IGKJ2	20	-1	-1	21

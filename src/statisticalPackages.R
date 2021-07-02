@@ -1,0 +1,10 @@
+#   ####  Scientific Packages #### 
+#source("https://bioconductor.org/biocLite.R")
+library(ape)
+library(amap)
+library(limma)
+library(edgeR)
+library(psych)
+library(tibble)
+library(Hmisc)
+library(psych)
