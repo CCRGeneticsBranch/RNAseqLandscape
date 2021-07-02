@@ -60,6 +60,8 @@ Then run:
 Rscript src/expressionAnalysis.R
 ```
 
+You might see many warnings but they will not affect the results. This script has been tested in R 4.0.
+
 ## Output
 
 ```
