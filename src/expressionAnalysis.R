@@ -175,7 +175,7 @@ expressionTMM.RPKM.GSEA.print = corUtilsFuncs$createBroadGCTFile(expressionTMM.R
 
 rnaseqTCGAProject <- createRNAseqProject(project_name, meta_tcga_file, list("CellLine"=list("LIBRARY_TYPE"="CellLine")))
 
-khanlab.TCGA.geneExp <- readRDS("input/GeneRDS/RPKM/RPKM_Data_Filt_Consolidated.GeneNames.all.TCGA.Khanlab.pc.log22019-03-19.rds")
+khanlab.TCGA.geneExp <- readRDS("input/GeneRDS/RPKM_Data_Filt_Consolidated.GeneNames.all.TCGA.Khanlab.pc.log22019-03-19.rds")
 expressionTMM.TCGA.RPKM.GSEA.Input <- khanlab.TCGA.geneExp[, -c(1:7)]; rownames(expressionTMM.TCGA.RPKM.GSEA.Input) <- khanlab.TCGA.geneExp[,6]
 
 ## Read the ssGSEA output
