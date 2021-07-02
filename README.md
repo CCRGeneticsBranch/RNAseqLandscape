@@ -3,7 +3,7 @@ R code for paper "Immuno-Transcriptomic Profiling of Extracranial Pediatric Soli
 
 ## Installation
 
-The easiest way to get this pipeline is to clone the repository.
+The easiest way to get this script is to clone the repository.
 
 SSH:
 ```
@@ -13,7 +13,7 @@ HTTPS:
 ```
 https://github.com/CCRGeneticsBranch/RNAseqLandscape.git
 ```
-We need an extra data file (too big for GitHub). Please copy this to input/GeneRDS/:
+We need an extra data file (too large for GitHub). Please copy this to input/GeneRDS/:
 ```
 cp /data/khanlab3/hsienchao/Landscape/RPKM_Data_Filt_Consolidated.GeneNames.all.TCGA.Khanlab.pc.log22019-03-19.rds RNAseqLandscape/input/GeneRDS/
 ```
