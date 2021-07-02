@@ -13,9 +13,9 @@ HTTPS:
 ```
 https://github.com/CCRGeneticsBranch/RNAseqLandscape.git
 ```
-We need an extra data file (too big for GitHub). Please copy this to input/GeneRDS/RPKM/:
+We need an extra data file (too big for GitHub). Please copy this to input/GeneRDS/:
 ```
-cp /data/khanlab3/hsienchao/Landscape/RPKM_Data_Filt_Consolidated.GeneNames.all.TCGA.Khanlab.pc.log22019-03-19.rds RNAseqLandscape/input/GeneRDS/RPKM/
+cp /data/khanlab3/hsienchao/Landscape/RPKM_Data_Filt_Consolidated.GeneNames.all.TCGA.Khanlab.pc.log22019-03-19.rds RNAseqLandscape/input/GeneRDS/
 ```
 
 ## Requirements
