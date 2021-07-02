@@ -57,7 +57,7 @@ cd RNAseqLandscape
 
 Then run:
 ```
-Rscripts src/expressionAnalysis.R
+Rscript src/expressionAnalysis.R
 ```
 
 ## Output
