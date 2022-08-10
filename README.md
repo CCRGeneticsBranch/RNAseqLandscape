@@ -1,5 +1,7 @@
 # RNAseqLandscape
-R code for paper "Immuno-Transcriptomic Profiling of Extracranial Pediatric Solid Malignancies"
+R code for paper "Immuno-transcriptomic profiling of extracranial pediatric solid malignancies" https://www.sciencedirect.com/science/article/pii/S2211124721015333
+
+Brohl, A. S., Sindiri, S., Wei, J. S., Milewski, D., Chou, H. C., Song, Y. K., ... & Khan, J. (2021). Immuno-transcriptomic profiling of extracranial pediatric solid malignancies. Cell reports, 37(8), 110047.
 
 ## Installation
 
